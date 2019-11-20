@@ -1,0 +1,6 @@
+*.yaml
+node_modules/*
+.config/*
+.glitch-assets
+.bash_history
+.env
